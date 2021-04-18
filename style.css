@@ -1,0 +1,18 @@
+body{
+    background: #eee;
+}
+
+#input{
+    height: 8%;
+    width: 75%;
+    align-self: center;
+    border-radius: 8px;
+    padding: 6px;
+}
+
+#input:focus{
+    box-shadow: 1px 1px 3px #333;
+    outline: none;
+    border: 1px solid #707;
+}
+
